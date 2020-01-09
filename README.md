@@ -83,4 +83,7 @@ it fulfills the requirement or not.
 
   See the code in the linked project.
 
+8) Exercises:
 
+    * Write a test that tests `library.isTyler(name)` returns true if given the string "Tyler" with any mixture of uppercase or lowercase letters
+    * Make the test pass by implmenting the method the Library class. 

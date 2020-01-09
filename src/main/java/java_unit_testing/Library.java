@@ -4,7 +4,7 @@
 package java_unit_testing;
 
 public class Library {
-    public boolean someLibraryMethod() {
-        return true;
+    public String greeting(String name) {
+        return String.format("Hello %s!", name);
     }
 }
